@@ -1,0 +1,12 @@
+#idea
+/.idea
+
+#git
+/.git
+.gitignire
+
+#php vendor
+/vendor
+
+#environment
+.env
