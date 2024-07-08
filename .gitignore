@@ -6,7 +6,7 @@
 .gitignire
 
 #php vendor
-/vendor
+/vendor/
 
 #environment
 .env
